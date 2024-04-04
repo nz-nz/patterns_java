@@ -1,4 +1,4 @@
-package weather_station;
+package observer.weather_station;
 
 public class StatisticsDisplay implements Observer, DisplayElement {
 	private float maxTemp = 0.0f;

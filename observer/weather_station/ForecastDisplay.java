@@ -1,4 +1,4 @@
-package weather_station;
+package observer.weather_station;
 
 public class ForecastDisplay implements Observer, DisplayElement {
 	private float currentPressure = 29.92f;
