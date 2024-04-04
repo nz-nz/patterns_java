@@ -1,3 +1,4 @@
+package ducks;
 public class DuckDecoy {
   QuackBehavior quackBehavior;
 
